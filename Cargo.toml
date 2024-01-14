@@ -1,0 +1,9 @@
+[dependencies]
+rocket = "0.5.0"
+rocket_codegen = "0.5.0"
+serde = { version = "1.0", features = ["derive"] }
+
+rocket_sync_db_pools = "0.5.0"
+bcrypt = "0.10.5"
+
+serde_json = "1.0"
